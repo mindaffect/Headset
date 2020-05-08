@@ -5,3 +5,7 @@ Here you can find:
 - Information on lay out when not supplied with a MindAffect headset
 
 
+# Support
+
+If you run into issues, either raise  an issue directly on github, or contact the developers on [gitter](https://gitter.im/mindaffect) -- to complain,complement or just chat.
+
