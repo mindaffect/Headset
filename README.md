@@ -13,7 +13,7 @@ To make this headband you will need:
  2. The electrode cross-piece.  As well as holding 6 electrodes in the horizontal headband, our design allows for 2 vertically displaced electrodes around `Oz`.   These are held by the vertical piece.  This should be printed using a relatively flexible material following the stl file [vertical Piece](verticalPiece.stl)
  3. 8 sponge-tubes.  Our design uses water-soaked sponges to bridge the connection between the electrode-pellet and the scalp.  The sponges are held in the sponge tube.  You should print 8 of these with hard or flexible material using the [sponge-tube](sponge-tube.stl)
 
- <img src="images/sponge-tube.jpg" alt="alt text" width="200"/>
+ <img src="images/sponge_tube.jpg" alt="alt text" width="200"/>
 
  4. 8 electrode pellet holder.  To hold the electrode pellets in place the pellet holder clips in from the back of the headband.  You should print 8 of these with hard material using the [nib-disc](nib-disc.stl)
   <img src="images/pellet+holder_top.jpg" alt="alt text" width="200"/>
@@ -49,19 +49,17 @@ If using a home printer, we have used the following settings -- thought the best
 
    1. On the *bottom side* (flat size) of the main piece insert the sponge holders into the electrode holes.  Note: this may take a little force.
 
- <img src="images/sponge_tube_inserted_bottom.jpg" width="200"/>
- <img src="images/sponge_tube_inserted_top.jpg" width="200"/>
+ <img src="images/sponge_tube_inserted_bottom.jpg" width="200"/> <img src="images/sponge_tube_inserted_top.jpg" width="200"/>
    
    
    2. Insert the electrode pellet into the electrode pellet holder. 
 
- <img src="images/pellet+holder_bottom.jpg" width="200"/>
- <img src="images/pellet+holder_top.jpg" width="200"/>
+ <img src="images/pellet+holder_bottom.jpg" width="200"/>  <img src="images/pellet+holder_top.jpg" width="200"/>
 
 
    2. From the *top side* (raised bumps) of the main piece insert the electrode-pellet + holder into the electrode holes, this should "click" into place to firmly hold the pellet whilst leaving the snap connector should be visible on the back-side of the electrode hole.
 
- <img src="images/electrod_assembled.jpg" width="200"/>
+ <img src="images/electrode_assembled.jpg" width="200"/>
       
    3. Attach the left/right spring pieces with 4 bolts+screws
    4. Loop the Forehead strap through the loops at the ends of the left/right spring pieces
