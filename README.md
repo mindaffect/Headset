@@ -7,9 +7,17 @@ Here you find the `.stl` print files and instructions on how to assemble the sna
 To make this headband you will need:
 
  1. The main electrode holding piece.  This should be 3d-printed using a relatively flexible material following this [stl file](main.stl)
+
+ <img src="images/main.jpg" alt="alt text" width="200"/>
+ 
  2. The electrode cross-piece.  As well as holding 6 electrodes in the horizontal headband, our design allows for 2 vertically displaced electrodes around `Oz`.   These are held by the vertical piece.  This should be printed using a relatively flexible material following the stl file [vertical Piece](verticalPiece.stl)
  3. 8 sponge-tubes.  Our design uses water-soaked sponges to bridge the connection between the electrode-pellet and the scalp.  The sponges are held in the sponge tube.  You should print 8 of these with hard or flexible material using the [sponge-tube](sponge-tube.stl)
+
+ <img src="images/sponge-tube.jpg" alt="alt text" width="200"/>
+
  4. 8 electrode pellet holder.  To hold the electrode pellets in place the pellet holder clips in from the back of the headband.  You should print 8 of these with hard material using the [nib-disc](nib-disc.stl)
+  <img src="images/pellet+holder_top.jpg" alt="alt text" width="200"/>
+
  4. 8 3mm x 8mm screws + bolts.  To hold the vertical piece and the expandable side pieces you will need 8 small bolts+screws.
  5. Left spring piece.  The headband must stretch to fit different head-sizes.  This with the spring pieces.  You should print with rubber-like material the [sprint-left](spring-left.stl)
  6. Right spring piece.  The headband must stretch to fit different head-sizes.  This with the spring pieces.  You should print with rubber-like material the [sprint-right](spring-right.stl)
@@ -40,13 +48,32 @@ If using a home printer, we have used the following settings -- thought the best
 # Assembly Instructions:
 
    1. On the *bottom side* (flat size) of the main piece insert the sponge holders into the electrode holes.  Note: this may take a little force.
-   2. From the *top side* (raised bumps) of the main piece insert the electrode-pellets into the electrode holes, this should be a close-fit but not require excessive force.
-   3. From the *top side* (raised bumps) of the main piece insert the electrode-pellet-holder into the electrode hole on top of the electrode-pellet, this should 'click' in place to firmly hold the pellet whilst leaving the snap connector should be visible on the back-side of the electrode hole.
+
+ <img src="images/sponge_tube_inserted_bottom.jpg" width="200"/>
+ <img src="images/sponge_tube_inserted_top.jpg" width="200"/>
+   
+   
+   2. Insert the electrode pellet into the electrode pellet holder. 
+
+ <img src="images/pellet+holder_bottom.jpg" width="200"/>
+ <img src="images/pellet+holder_top.jpg" width="200"/>
+
+
+   2. From the *top side* (raised bumps) of the main piece insert the electrode-pellet + holder into the electrode holes, this should "click" into place to firmly hold the pellet whilst leaving the snap connector should be visible on the back-side of the electrode hole.
+
+ <img src="images/electrod_assembled.jpg" width="200"/>
+      
    3. Attach the left/right spring pieces with 4 bolts+screws
    4. Loop the Forehead strap through the loops at the ends of the left/right spring pieces
    5. (If used) attach the insert the sponge-holder, electrode-pellets, and electrode-pellet-holders in the vertical piece as for the main-piece, and then attached the vertical piece to the main piece with 4 screws.
    6. (If needed) strip the snap-electrode wires and attach to the jumper header block.
+ 
+ <img src="images/jumper_header.jpg" width="200"/>
+   
+   
    7. Snap the electrode wires onto the snap-connector on the electrode pellet.
+ <img src="images/assembled.jpg" width="200"/>
+
 
 # Usage Instructions
 
@@ -61,5 +88,5 @@ To use the assembled headset.
 
 # Support
 
-If you run into issues, either raise  an issue directly on github, or contact the developers on [gitter](https://gitter.im/mindaffect) -- to complain,complement or just chat.
+If you run into issues, either raise  an issue directly on github.
 
