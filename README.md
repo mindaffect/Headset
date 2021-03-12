@@ -6,7 +6,7 @@ Here you find the `.stl` print files and instructions on how to assemble the sna
 
 To make this headband you will need:
 
- 1. The main electrode holding piece.  This should be 3d-printed using a relatively flexible material following this [stl file](main.stl)
+ 1. The main electrode holding piece.  This should be 3d-printed using a rubber-like flexible material following this [stl file](main.stl)
 
  <img src="images/main.jpg" alt="alt text" width="200"/>
  
@@ -19,8 +19,8 @@ To make this headband you will need:
   <img src="images/pellet+holder_top.jpg" alt="alt text" width="200"/>
 
  4. 8 3mm x 8mm screws + bolts.  To hold the vertical piece and the expandable side pieces you will need 8 small bolts+screws.
- 5. Left spring piece.  The headband must stretch to fit different head-sizes.  This with the spring pieces.  You should print with rubber-like material the [sprint-left](spring-left.stl)
- 6. Right spring piece.  The headband must stretch to fit different head-sizes.  This with the spring pieces.  You should print with rubber-like material the [sprint-right](spring-right.stl)
+ 5. Left spring piece.  The headband must stretch to fit different head-sizes.  This with the spring pieces.  You should print with rubber-like flexible material the [sprint-left](spring-left.stl)
+ 6. Right spring piece.  The headband must stretch to fit different head-sizes.  This with the spring pieces.  You should print with rubber-like flexible material the [sprint-right](spring-right.stl)
  7. Forehead strap.  The forehead strap goes over the forehead between the 2 spring pieces.  This should be a strap of approx 20mm x 300mm and ~1mm thick.  If using the spring-pieces it does not *need* to be elasticated, though that may be more comfortable.
  8. (Option)  Instead of using the left/right spring pieces, 
  9. 8 Electrode-Pellets.  These sliver/sliver-chloride pellets provide the connection between the snap-connector wire and the water sponge.  For this design we have used the *Thought Technology SA9329*  pellets for ECG.  These can be ordered from [biomedical.com](https://bio-medical.com/ekgecg-pellets-for-sa9329.html)
@@ -30,7 +30,7 @@ To make this headband you will need:
 
 # 3d Print Instructions
 
-As the headset should conform to a persons head, we recommend semi-flexible print materials, for the main electrode holding piece and the left/right spring pieces.  Stiff material like PLA, PETG or ABS is too rigid and won't work.  We have used "Renkforce Flexible Filament" but any rubber-like semi-flexible material should work.
+As the headset should conform to a persons head, we recommend semi-flexible print materials, for the main electrode holding piece and the left/right spring pieces.  Stiff material like PLA, PETG or ABS is too rigid and won't work.  We have used "Ninja-flex" Flexible Filament but any rubber-like semi-flexible material should work.
 
 The other pieces (sponge-tube, nib-disc) can be printed with stiff materials.
 
